@@ -1,0 +1,206 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Marcelo's Resume",
+    "label": "Software Engineering Student",
+    "image": "",
+    "email": "carbonelmarcelo@gmail.com",
+    "phone": "+51 947048838",
+    "url": "http://richardhendricks.example.com",
+    "summary": "I'm in my last year of studies towards a bachelor's in software Engineering. I enjoy developing web/mobile based applications that provide a good user experience. I feel comfortable working in an agile environment, making use of scrum-like frameworks.",
+    "location": {
+      "city": "Lima",
+      "countryCode": "PE",
+      "region": "Lima"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "marcarzaj",
+        "url": "https://www.linkedin.com/in/marcarzaj/"
+      },
+      {
+        "network": "GitHub",
+        "username": "zaj-e",
+        "url": "https://github.com/zaj-e"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Bertoni Solutions",
+      "description": "",
+      "position": ".NET Intern",
+      "url": "https://www.bertonisolutions.com/",
+      "startDate": "2020-12",
+      "endDate": "2021-09",
+      "summary": "Bertoni Solutions is a digital consulting company, with in-house software development, QA and testing capabilities.",
+      "highlights": [
+        "Developed RESTlike APIs using .NET Core Technologies.",
+        "Helped design database schemas and crucial software architecture.",
+        "Handled CI/CD pipelines on Azure Pipelines in integration with Azure Devops and Azure Web Services.",
+        "Developed web features using Html/Css/Bootstrap/Js/Jquery/Razor.",
+        "Built reports using PowerBI."
+      ]
+    },
+    {
+      "name": "Encora",
+      "description": "",
+      "position": "Devops Engineer",
+      "url": "https://www.encora.com/",
+      "startDate": "2021-09",
+      "summary": "Encora is a leader in the large and rapidly growing outsourced product development market.",
+      "highlights": [
+        "Administration of certain platforms related to the software delivery lifecycle, such as Octopus Deploy, Team Foundation Service, SonarQube, Proget, and Azure DevOps.",
+        "Worked on creating and maintaining CI/CD pipelines.",
+        "Developed web reporting web application to draw meaningful conclusions about our deployments.",
+        "Contributed on implementation of vulnerability scanning procedures",
+        "Maintained PowerShell scripts that integrate data between different company systems.",
+        "Worked on configuring and securing Azure resources through terraform."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Padworth College",
+      "url": "https://www.padworth.com/",
+      "area": "Short English Course",
+      "studyType": "Course",
+      "startDate": "2016-01-01",
+      "endDate": "2016-02-12",
+      "courses": [
+        "Mathematics",
+        "English",
+        "ICT",
+        "Science"
+      ]
+    },
+    {
+      "institution": "Universidad Peruana de Ciencias Aplicadas",
+      "url": "https://www.upc.edu.pe/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2017-03-01",
+      "endDate": "2022-11-16",
+      "courses": [
+        "SI400 - Database Design",
+        "SI404 - Artificial Intelligence",
+        "SI653 - Web Development",
+        "CC183 - Applications for Mobile Devices",
+        "SI657 - Fundamentals of Software Architecture",
+        "CC65 - Concurrent and Distributed programming"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Scrum Foundations Professional Certificate (SFPC)",
+      "date": "2021-06",
+      "awarder": "Certiprof",
+      "summary": "The Learning Objectives for this certification are based on: The 2020 Scrum Guide, The Agile Manifesto and the Agile Glossary."
+    },
+    {
+      "title": "Python for Everybody Specialization",
+      "date": "2021-06",
+      "awarder": "University of Michigan",
+      "summary": "This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. "
+    },
+    {
+      "title": "IBM Cybersecurity Analyst Specialization",
+      "date": "2021-11",
+      "awarder": "IBM",
+      "summary": "Concepts including network security, endpoint protection, incident response, threat intelligence, penetration testing, and vulnerability assessment."
+    },
+    {
+      "title": "Microsoft Certified Azure Fundamentals",
+      "date": "2021-12",
+      "awarder": "Microsoft",
+      "summary": "Fundamental knowledge of cloud concepts, along with Azure services, workloads, security, privacy, pricing, and support."
+    },
+    {
+      "title": "Regulatory Compliance Specialization",
+      "date": "2022-04",
+      "awarder": "University of Pennsylvania",
+      "summary": "This specialization will introduce the essential elements of effective organizational compliance by exploring the concepts, considerations, and strategies for assessing risks and managing the compliance function."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend Development",
+      "level": "Advanced",
+      "keywords": [
+        "NET",
+        "EFCore",
+        "Linq"
+      ]
+    },
+    {
+      "name": "Data Management and Reporting",
+      "level": "Intermediate",
+      "keywords": [
+        "SQL",
+        "Power BI Desktop",
+        "Power BI Report Builder",
+        "SQL Server Integration Servics (ETL)"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": [
+        "Azure",
+        "Docker",
+        "Terraform",
+        "Azure DevOps"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "Beginner",
+      "keywords": [
+        "Flutter"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Beginner",
+      "keywords": [
+        "Typescript/Javascript",
+        "HTML",
+        "CSS",
+        "Razor Pages",
+        "Angular"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Health",
+      "keywords": [
+        "Calisthenics",
+        "Yoga"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
